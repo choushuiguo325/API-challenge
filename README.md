@@ -26,14 +26,6 @@ A Python script "WeatherPy.ipynb" inside the WeatherPy folder is created to visu
 
 After each pair of plots, explainations about what the linear regression is modeling such as any noticed relationships and any other analysis are shown.
 
-**Optional** You will be creating multiple linear regression plots. To optimize your code, write a function that creates the linear regression plots.
-
-Your final notebook must:
-
-* Randomly select **at least** 500 unique (non-repeat) cities based on latitude and longitude.
-* Perform a weather check on each of the cities using a series of successive API calls.
-* Include a print log of each city as it's being processed with the city number and city name.
-* Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
 All the scatter plots are exported into output_data folders as png figures.
 
